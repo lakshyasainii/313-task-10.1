@@ -1,0 +1,30 @@
+.header img {
+    width: 100%;
+}
+
+.header{
+    display: block;
+    text-align: left;
+}
+
+.header p{
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+.header input{
+    width: 1000px;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.header a:hover{
+    cursor: pointer;
+}
+
+.header h4{
+    
+    background-color:gray;
+}

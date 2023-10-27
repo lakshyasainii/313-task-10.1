@@ -1,0 +1,31 @@
+.footer-div {
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+.footer-div a {
+    color: black;
+    text-decoration: none;
+}
+
+.social-image {
+    width: 50px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.centered-column {
+    max-width: 500px;
+    margin: auto;
+}
+
+.centered-column a {
+    margin: 20px;
+}
+
+/* Custom CSS for alignment */
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center vertically */
+}
